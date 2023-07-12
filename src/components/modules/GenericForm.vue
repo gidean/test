@@ -12,47 +12,50 @@
 <template>
   <div class="quote-container p-4 sm:p-6">
     <div class="header">
-      <h2 class="title" v-html="contentData.title"/>
-      <p class="desc" v-html="contentData.description"/>
+      <h2 class="title" v-html="contentData.title" />
+      <p class="desc" v-html="contentData.description" />
     </div>
     <ValidationObserver v-slot="{ handleSubmit }" slim>
       <form class="form-container" @submit.prevent="handleSubmit(submitForm)">
         <div class="flex flex-col md:flex-row">
-            <div class="input-wrapper md:pr-4">
-              <ValidationProvider rules="required" v-slot="{ errors }" slim>
-                <label class="label" :for="firstName">
-                  {{ contentData.firstName }}
-                </label>
-                <input @input="alphaOnly('firstName', $event)" :name="contentData.firstName" v-model="firstName" type="text" :aria-label="contentData.firstName">
-                <small v-show="errors[0]" class="form-error">
-                  {{ errors[0] }}
-                </small>
-              </ValidationProvider>
-            </div>
-            <div class="input-wrapper">
-              <ValidationProvider rules="required" v-slot="{ errors }" slim>
-                <label class="label" :for="lastName">
-                  {{ contentData.lastName }}
-                </label>
-                <input @input="alphaOnly('lastName', $event)" :name="contentData.lastName" v-model="lastName" type="text" :aria-label="contentData.lastName">
-                <small v-show="errors[0]" class="form-error">
-                  {{ errors[0] }}
-                </small>
-              </ValidationProvider>
-            </div>
+          <div class="input-wrapper md:pr-4 pb-4 md:pb-0">
+            <ValidationProvider rules="required" v-slot="{ errors }" slim>
+              <label class="label" :for="firstName">
+                {{ contentData.firstName }}
+              </label>
+              <input @input="alphaOnly('firstName', $event)" :name="contentData.firstName" v-model="firstName" type="text"
+                :aria-label="contentData.firstName">
+              <small v-show="errors[0]" class="form-error">
+                {{ errors[0] }}
+              </small>
+            </ValidationProvider>
+          </div>
+          <div class="input-wrapper">
+            <ValidationProvider rules="required" v-slot="{ errors }" slim>
+              <label class="label" :for="lastName">
+                {{ contentData.lastName }}
+              </label>
+              <input @input="alphaOnly('lastName', $event)" :name="contentData.lastName" v-model="lastName" type="text"
+                :aria-label="contentData.lastName">
+              <small v-show="errors[0]" class="form-error">
+                {{ errors[0] }}
+              </small>
+            </ValidationProvider>
+          </div>
         </div>
         <div class="input-wrapper">
           <ValidationProvider rules="required" v-slot="{ errors }"" slim>
-            <label class="label" :for="phoneNumber">
-              {{ contentData.phoneLabel }}
+              <label class=" label" :for="phoneNumber">
+            {{ contentData.phoneLabel }}
             </label>
-            <input @input="numericOnly('firstName', $event)" v-model="phoneNumber" type="number" :name="contentData.phoneLabel" :aria-label="contentData.phoneLabel">
+            <input @input="numericOnly('firstName', $event)" v-model="phoneNumber" type="number"
+              :name="contentData.phoneLabel" :aria-label="contentData.phoneLabel">
             <small v-show="errors[0]" class="form-error">
               {{ errors[0] }}
             </small>
           </ValidationProvider>
         </div>
-        <p class="terms-copy" v-html="contentData.termsCopy"/>
+        <p class="terms-copy" v-html="contentData.termsCopy" />
         <button class="cta-btn m-primary" type="submit">
           {{ contentData.submitCopy }}
         </button>
@@ -77,8 +80,7 @@ export default {
     return {
       firstName: '',
       lastName: '',
-      phoneNumber: '',
-      erros: []
+      phoneNumber: ''
     }
   },
   computed: {

@@ -12,18 +12,16 @@
 <template>
   <div class="accordion">
     <div v-html="contentData.header" class="accordion-header mb-6" />
-    <div class="accordion-item" 
-          v-for="(accordionItem, index) in contentData.accordionItems" 
-          :key="index"
-          :id="'accordion-btn-' + index"
-          :aria-controls="'accordion-panel-' + index"
-          :aria-expanded="openedIndex === index ? 'true' : 'false'"
-          @click="toggleAcordion(index)">
+    <div
+      class="accordion-item" 
+      v-for="(accordionItem, index) in contentData.accordionItems" 
+      :key="index"
+      :id="'accordion-btn-' + index"
+      :aria-controls="'accordion-panel-' + index"
+      :aria-expanded="openedIndex === index ? 'true' : 'false'"
+      @click="toggleAcordion(index)">
       <div class="accordion-question py-4" >
-        <button
-          type="button"
-          class="accordion-question-button"
-        >
+        <button type="button" class="accordion-question-button">
           {{ accordionItem.elements.question.value }}
         </button>
         <div class="arrow">
@@ -35,13 +33,11 @@
         @enter="start"
         @after-enter="end"
         @before-leave="start"
-        @after-leave="end"
-      >
+        @after-leave="end">
         <div
           v-show="openedIndex === index"
           class="accordion-answer"
-          v-html="accordionItem.elements.answer.value"
-        />
+          v-html="accordionItem.elements.answer.value"/>
       </transition>
     </div>
     <div class="accordion-footer mt-6" v-if="contentData.linkText">
@@ -49,7 +45,6 @@
         {{ contentData.linkText }}
         <ArrowRight class="mr-8"></ArrowRight> 
       </a>
-      
     </div>
   </div>
 </template>
