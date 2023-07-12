@@ -1,0 +1,906 @@
+{
+  "content": [
+    {
+      "contentData": {
+        "header": {
+          "images": [],
+          "linkedItemCodenames": [],
+          "linkedItems": [],
+          "links": [],
+          "name": "Header",
+          "type": "rich_text",
+          "value": "<h4><strong>Life insurance explained</strong>&nbsp;</h4>\n<p>If you've got further questions check out our <a href=\"/life-insurance-guides/\">help guides</a> and our <a href=\"/faq/\"> faq section</a>.</p>"
+        },
+        "asterisks": {
+          "value": "For a 32-year-old, non-smoker on an age-based family life insurance policy for £100,000 benefit amount. Premiums depend on personal circumstances increasing annually based on age and benefit amount. Terms and Conditions apply."
+        },
+        "accordion_items": {
+          "name": "Accordion Items",
+          "type": "modular_content",
+          "value": [
+            "what_is_over_50_life_insurance_",
+            "what_is_over_50_life_insurance___copy__9bd09cb",
+            "how_much_life_insurance_coverage_can_i_get_",
+            "how_much_does_it_cost___copy_",
+            "what_is_whole_life_insurance_"
+          ],
+          "linkedItems": [
+            {
+              "elements": {
+                "question": {
+                  "name": "Question",
+                  "type": "text",
+                  "value": "What is Canadian Seniors Life Insurance?"
+                },
+                "answer": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Answer",
+                  "type": "rich_text",
+                  "value": "<p>Life insurance is a simple way to help provide some financial security for your loved ones. With Canadian Seniors Life Insurance, you can help your family with funeral costs, tax bills, and future planning when you’re gone. It could allow you to leave behind some money as a gift. Even better, with Seniors Choice you’re guaranteed a cash amount so once it’s in place, you’re protected for life<sup>1</sup>.</p>\n<p><a href=\"/life-insurance/what-is-life-insurance/\">Learn more</a></p>"
+                },
+                "link_text": {
+                  "name": "Link Text",
+                  "type": "text",
+                  "value": "Learn More"
+                },
+                "site_link": {
+                  "name": "Site Link",
+                  "type": "modular_content",
+                  "value": [
+                    "article_url"
+                  ],
+                  "linkedItems": [
+                    {
+                      "elements": {
+                        "title": {
+                          "name": "Title",
+                          "type": "text",
+                          "value": "What Is Life Insurance?"
+                        },
+                        "url": {
+                          "name": "URL",
+                          "type": "text",
+                          "value": "/what-is-life-insurance/"
+                        },
+                        "parent": {
+                          "name": "Parent",
+                          "type": "modular_content",
+                          "value": [
+                            "over_50s_life_insurance"
+                          ],
+                          "linkedItems": [
+                            {
+                              "elements": {
+                                "title": {
+                                  "name": "Title",
+                                  "type": "text",
+                                  "value": "Family Life Insurance"
+                                },
+                                "url": {
+                                  "name": "URL",
+                                  "type": "text",
+                                  "value": "/life-insurance/"
+                                },
+                                "parent": {
+                                  "name": "Parent",
+                                  "type": "modular_content",
+                                  "value": [],
+                                  "linkedItems": []
+                                },
+                                "hide_on_sitemap": {
+                                  "name": "Hide on Sitemap",
+                                  "type": "multiple_choice",
+                                  "value": []
+                                },
+                                "hide_nav_bar": {
+                                  "name": "Hide Nav Bar",
+                                  "type": "multiple_choice",
+                                  "value": []
+                                }
+                              },
+                              "system": {
+                                "codename": "over_50s_life_insurance",
+                                "collection": "default",
+                                "id": "bf0ec793-936c-46a9-91ba-bc4af700c9b4",
+                                "language": "default",
+                                "lastModified": "2023-06-13T09:22:16.6865379Z",
+                                "name": "Life Insurance PDP URL",
+                                "sitemapLocations": [],
+                                "type": "navigation_item",
+                                "workflowStep": "published"
+                              }
+                            }
+                          ]
+                        },
+                        "hide_on_sitemap": {
+                          "name": "Hide on Sitemap",
+                          "type": "multiple_choice",
+                          "value": []
+                        },
+                        "hide_nav_bar": {
+                          "name": "Hide Nav Bar",
+                          "type": "multiple_choice",
+                          "value": []
+                        }
+                      },
+                      "system": {
+                        "codename": "article_url",
+                        "collection": "default",
+                        "id": "70d93d4c-e755-4aa5-bf6e-8fe0c6785e8c",
+                        "language": "default",
+                        "lastModified": "2023-02-07T15:14:57.7311114Z",
+                        "name": "What Is Life Insurance? URL",
+                        "sitemapLocations": [],
+                        "type": "navigation_item",
+                        "workflowStep": "published"
+                      }
+                    }
+                  ]
+                },
+                "external_link": {
+                  "name": "External Link",
+                  "type": "text",
+                  "value": ""
+                }
+              },
+              "system": {
+                "codename": "what_is_over_50_life_insurance_",
+                "collection": "default",
+                "id": "e86abd8d-454d-48d2-8385-0d52a85ff79f",
+                "language": "default",
+                "lastModified": "2023-02-01T15:57:47.9364369Z",
+                "name": "What is Canadian Seniors Life Insurance?",
+                "sitemapLocations": [],
+                "type": "accordion_item",
+                "workflowStep": "published"
+              }
+            },
+            {
+              "elements": {
+                "question": {
+                  "name": "Question",
+                  "type": "text",
+                  "value": "How does Canadian Seniors Life Insurance work?"
+                },
+                "answer": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Answer",
+                  "type": "rich_text",
+                  "value": "<p>Canadian Seniors Life Insurance is protection that covers you for life. If you’re a Canadian resident aged 40-80, you’re eligible for up to $250,000 of coverage depending on your age<sup>2</sup>. You don’t need to provide a medical or blood test to get approved for coverage. Our coverage is exclusive to us and can only be bought direct. We’ll discuss a benefit amount and a monthly premium with you. Once you’ve secured coverage you’ll be protected for life<sup>1</sup>.</p>"
+                },
+                "link_text": {
+                  "name": "Link Text",
+                  "type": "text",
+                  "value": ""
+                },
+                "site_link": {
+                  "name": "Site Link",
+                  "type": "modular_content",
+                  "value": [],
+                  "linkedItems": []
+                },
+                "external_link": {
+                  "name": "External Link",
+                  "type": "text",
+                  "value": ""
+                }
+              },
+              "system": {
+                "codename": "what_is_over_50_life_insurance___copy__9bd09cb",
+                "collection": "default",
+                "id": "9bd09cbd-144b-4ec1-b48f-91127d6cc89e",
+                "language": "default",
+                "lastModified": "2023-02-01T16:33:17.7399142Z",
+                "name": "How does Canadian Seniors Life Insurance work?",
+                "sitemapLocations": [],
+                "type": "accordion_item",
+                "workflowStep": "published"
+              }
+            },
+            {
+              "elements": {
+                "question": {
+                  "name": "Question",
+                  "type": "text",
+                  "value": "How much life insurance coverage can I get?"
+                },
+                "answer": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Answer",
+                  "type": "rich_text",
+                  "value": "<p>With Canadian Seniors Life Insurance, you can apply for a minimum of $10,000 and a maximum $250,000 worth of coverage depending on your age. Your age, gender and smoker status will all have an impact on the amount of coverage you can apply for. The amount of coverage you apply for will determine the amount you will pay each month for your premiums. When applying, it’s important to take the time to consider what coverage amount would be right for you and your situation.&nbsp;</p>\n<p>Here are the maximum benefit amounts that you can apply for depending on your age at the time of applying:&nbsp;</p>\n<ul>\n <li>40 – 60 (Maximum $250k)&nbsp;</li>\n <li>61 – 70 (Maximum $200k)&nbsp;</li>\n <li>71 – 80 (Maximum $150k)&nbsp;</li>\n</ul>"
+                },
+                "link_text": {
+                  "name": "Link Text",
+                  "type": "text",
+                  "value": ""
+                },
+                "site_link": {
+                  "name": "Site Link",
+                  "type": "modular_content",
+                  "value": [],
+                  "linkedItems": []
+                },
+                "external_link": {
+                  "name": "External Link",
+                  "type": "text",
+                  "value": ""
+                }
+              },
+              "system": {
+                "codename": "how_much_life_insurance_coverage_can_i_get_",
+                "collection": "default",
+                "id": "f0288371-8d3e-4ea5-a73f-ba7b5ef2dc59",
+                "language": "default",
+                "lastModified": "2023-01-31T11:56:12.6641125Z",
+                "name": "How much life insurance coverage can I get?",
+                "sitemapLocations": [],
+                "type": "accordion_item",
+                "workflowStep": "published"
+              }
+            },
+            {
+              "elements": {
+                "question": {
+                  "name": "Question",
+                  "type": "text",
+                  "value": "How much does it cost?"
+                },
+                "answer": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Answer",
+                  "type": "rich_text",
+                  "value": "<p>How much your life insurance will cost you depends on your individual circumstances. Here are some of the things that could affect the price of your coverage: &nbsp;&nbsp;&nbsp;</p>\n<ul>\n <li>Your age at the time of applying &nbsp;&nbsp;&nbsp;</li>\n <li>Your gender &nbsp;&nbsp;&nbsp;</li>\n <li>Your smoker status &nbsp;&nbsp;&nbsp;&nbsp;</li>\n <li>Your chosen benefit amount</li>\n</ul>\n<p>With Canadian Seniors premiums can be little as $14.88 per month.<sup>3</sup> &nbsp;</p>"
+                },
+                "link_text": {
+                  "name": "Link Text",
+                  "type": "text",
+                  "value": ""
+                },
+                "site_link": {
+                  "name": "Site Link",
+                  "type": "modular_content",
+                  "value": [],
+                  "linkedItems": []
+                },
+                "external_link": {
+                  "name": "External Link",
+                  "type": "text",
+                  "value": ""
+                }
+              },
+              "system": {
+                "codename": "how_much_does_it_cost___copy_",
+                "collection": "default",
+                "id": "c1eaeb82-2452-4358-bde3-168b2e4a1897",
+                "language": "default",
+                "lastModified": "2023-01-31T11:59:35.0508428Z",
+                "name": "How much does it cost? (PDP)",
+                "sitemapLocations": [],
+                "type": "accordion_item",
+                "workflowStep": "published"
+              }
+            },
+            {
+              "elements": {
+                "question": {
+                  "name": "Question",
+                  "type": "text",
+                  "value": "What is whole life insurance? "
+                },
+                "answer": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Answer",
+                  "type": "rich_text",
+                  "value": "<p>Whole life or whole of life insurance is a type of protection that covers you for life. This means that as long as you keep up with your monthly premium payments, your loved ones are guaranteed a cash amount when you die. Subject to standard terms and conditions.</p>"
+                },
+                "link_text": {
+                  "name": "Link Text",
+                  "type": "text",
+                  "value": ""
+                },
+                "site_link": {
+                  "name": "Site Link",
+                  "type": "modular_content",
+                  "value": [],
+                  "linkedItems": []
+                },
+                "external_link": {
+                  "name": "External Link",
+                  "type": "text",
+                  "value": ""
+                }
+              },
+              "system": {
+                "codename": "what_is_whole_life_insurance_",
+                "collection": "default",
+                "id": "b7b0422b-745c-4c1c-9add-366785c40404",
+                "language": "default",
+                "lastModified": "2023-02-01T17:17:15.050538Z",
+                "name": "What is whole life insurance?",
+                "sitemapLocations": [],
+                "type": "accordion_item",
+                "workflowStep": "published"
+              }
+            }
+          ]
+        },
+        "module_cta": {
+          "name": "Module CTA",
+          "type": "modular_content",
+          "value": [
+            "view_more"
+          ],
+          "linkedItems": [
+            {
+              "elements": {
+                "link_text": {
+                  "name": "Link Text",
+                  "type": "text",
+                  "value": "View more"
+                },
+                "external_link": {
+                  "name": "External Link",
+                  "type": "text",
+                  "value": ""
+                },
+                "site_link": {
+                  "name": "Site Link",
+                  "type": "modular_content",
+                  "value": [
+                    "how_we_compare_url__copy_"
+                  ],
+                  "linkedItems": [
+                    {
+                      "elements": {
+                        "title": {
+                          "name": "Title",
+                          "type": "text",
+                          "value": "Frequently Asked Questions"
+                        },
+                        "url": {
+                          "name": "URL",
+                          "type": "text",
+                          "value": "/life-insurance/faqs/"
+                        },
+                        "parent": {
+                          "name": "Parent",
+                          "type": "modular_content",
+                          "value": [
+                            "over_50s_life_insurance"
+                          ],
+                          "linkedItems": [
+                            {
+                              "elements": {
+                                "title": {
+                                  "name": "Title",
+                                  "type": "text",
+                                  "value": "Family Life Insurance"
+                                },
+                                "url": {
+                                  "name": "URL",
+                                  "type": "text",
+                                  "value": "/life-insurance/"
+                                },
+                                "parent": {
+                                  "name": "Parent",
+                                  "type": "modular_content",
+                                  "value": [],
+                                  "linkedItems": []
+                                },
+                                "hide_on_sitemap": {
+                                  "name": "Hide on Sitemap",
+                                  "type": "multiple_choice",
+                                  "value": []
+                                },
+                                "hide_nav_bar": {
+                                  "name": "Hide Nav Bar",
+                                  "type": "multiple_choice",
+                                  "value": []
+                                }
+                              },
+                              "system": {
+                                "codename": "over_50s_life_insurance",
+                                "collection": "default",
+                                "id": "bf0ec793-936c-46a9-91ba-bc4af700c9b4",
+                                "language": "default",
+                                "lastModified": "2023-06-13T09:22:16.6865379Z",
+                                "name": "Life Insurance PDP URL",
+                                "sitemapLocations": [],
+                                "type": "navigation_item",
+                                "workflowStep": "published"
+                              }
+                            }
+                          ]
+                        },
+                        "hide_on_sitemap": {
+                          "name": "Hide on Sitemap",
+                          "type": "multiple_choice",
+                          "value": []
+                        },
+                        "hide_nav_bar": {
+                          "name": "Hide Nav Bar",
+                          "type": "multiple_choice",
+                          "value": []
+                        }
+                      },
+                      "system": {
+                        "codename": "how_we_compare_url__copy_",
+                        "collection": "default",
+                        "id": "cf90110e-97b3-4c6c-9a26-8b2148abcfe1",
+                        "language": "default",
+                        "lastModified": "2021-07-20T15:05:05.5715275Z",
+                        "name": "Frequently Asked Questions URL",
+                        "sitemapLocations": [],
+                        "type": "navigation_item",
+                        "workflowStep": "published"
+                      }
+                    }
+                  ]
+                },
+                "open_in_new_window": {
+                  "name": "Open in new window",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "phone_number": {
+                  "name": "Phone number",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "style_options": {
+                  "name": "Style Options",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "data_gtm": {
+                  "name": "Data GTM",
+                  "type": "text",
+                  "value": ""
+                }
+              },
+              "system": {
+                "codename": "view_more",
+                "collection": "default",
+                "id": "90185c02-978e-4872-a86b-1db63f6c8c75",
+                "language": "default",
+                "lastModified": "2021-07-22T11:10:51.4891383Z",
+                "name": "View more",
+                "sitemapLocations": [],
+                "type": "link",
+                "workflowStep": "published"
+              }
+            }
+          ]
+        }
+      },
+      "system": {
+        "codename": "faqs__copy__18f2dfe",
+        "collection": "default",
+        "id": "18f2dfe7-4442-4ca0-93fb-7bc8e11dd073",
+        "language": "default",
+        "lastModified": "2023-06-21T09:54:55.4653798Z",
+        "name": "FAQs (Small)",
+        "sitemapLocations": [],
+        "type": "accordion_module",
+        "workflowStep": "published"
+      }
+    }
+  ],
+  "sidebar": [
+    {
+      "elements": {
+        "title": {
+          "name": "Title",
+          "type": "text",
+          "value": "Want to talk?"
+        },
+        "description": {
+          "images": [],
+          "linkedItemCodenames": [],
+          "linkedItems": [],
+          "links": [],
+          "name": "Description",
+          "type": "rich_text",
+          "value": "<p>This is optional paragraph text which can be left blank or turned off to not show if needed via the CMS.</p>"
+        },
+        "first_name_label": {
+          "name": "First Name Label",
+          "type": "text",
+          "value": "First Name"
+        },
+        "last_name_label": {
+          "name": "Last Name Label",
+          "type": "text",
+          "value": "Last Name"
+        },
+        "date_of_birth_label": {
+          "name": "Date of Birth Label",
+          "type": "text",
+          "value": ""
+        },
+        "date_of_birth_copy": {
+          "name": "Date of Birth Copy",
+          "type": "text",
+          "value": ""
+        },
+        "min_age": {
+          "name": "Min Age",
+          "type": "number",
+          "value": null
+        },
+        "max_age": {
+          "name": "Max Age",
+          "type": "number",
+          "value": null
+        },
+        "confirm_age_label": {
+          "name": "Confirm Age Label",
+          "type": "text",
+          "value": ""
+        },
+        "phone_number_label": {
+          "name": "Phone Number Label",
+          "type": "text",
+          "value": "Phone number"
+        },
+        "email_label": {
+          "name": "Email Label",
+          "type": "text",
+          "value": "Email"
+        },
+        "postcode_label": {
+          "name": "Postcode Label",
+          "type": "text",
+          "value": ""
+        },
+        "postcode_copy": {
+          "name": "Postcode Copy",
+          "type": "text",
+          "value": ""
+        },
+        "province_select_label": {
+          "name": "Province Select Label",
+          "type": "text",
+          "value": ""
+        },
+        "submit_copy": {
+          "name": "Submit Copy",
+          "type": "text",
+          "value": "Call Me Back"
+        },
+        "terms_copy": {
+          "name": "Terms Copy",
+          "type": "text",
+          "value": "You can read our <strong> terms of use </strong> and our <strong>privacy policy</strong>. When you click the above button, you agree to us using your phone number and email address to contact you about your quote."
+        },
+        "product": {
+          "name": "Product",
+          "type": "modular_content",
+          "value": [
+            "over_50_life_insurance_product"
+          ],
+          "linkedItems": [
+            {
+              "elements": {
+                "product_name": {
+                  "name": "Product Name",
+                  "type": "text",
+                  "value": "Family Life Insurance"
+                },
+                "product_description": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Product Description",
+                  "type": "rich_text",
+                  "value": "<p>Helps provide financial protection for your loved ones in the event of your death. Choose a benefit amount from <strong>£60,000</strong> up to <strong>£750,000</strong>, depending on your age. No medicals, just a few health and lifestyle questions.</p>"
+                },
+                "product_code": {
+                  "name": "Product Code",
+                  "type": "text",
+                  "value": "SM-LI-5"
+                }
+              },
+              "system": {
+                "codename": "over_50_life_insurance_product",
+                "collection": "default",
+                "id": "ebb445e0-6061-455e-bd33-0c6703311dc2",
+                "language": "default",
+                "lastModified": "2023-07-05T15:39:49.6414837Z",
+                "name": "Family Life Insurance - Product",
+                "sitemapLocations": [],
+                "type": "product",
+                "workflowStep": "draft"
+              }
+            }
+          ]
+        },
+        "form_type": {
+          "name": "Form Type",
+          "type": "multiple_choice",
+          "value": [
+            {
+              "name": "Call Back",
+              "codename": "call_back"
+            }
+          ]
+        },
+        "policy_modal": {
+          "name": "Policy Modal",
+          "type": "modular_content",
+          "value": [
+            "policy_modal"
+          ],
+          "linkedItems": [
+            {
+              "elements": {
+                "title": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Title",
+                  "type": "rich_text",
+                  "value": "<h2>Privacy and Cookie Policy</h2>"
+                },
+                "content": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Content",
+                  "type": "rich_text",
+                  "value": "<h2>Privacy Policy</h2>\n<p>The pages on this website are only directed at UK residents and comply with appropriate UK legislation and regulation.</p>\n<p>This privacy policy has been provided to let you know how we use and look after your personal information. This includes what you tell us about yourself, what we learn by having you as a customer, and the choices you give us about what marketing you want us to send to you. The policy also tells you about your privacy rights and how the law protects you when (i) we contact you (ii) you contact us (iii) you visit our website.</p>\n<p>We promise to:</p>\n<ul>\n <li>Keep your data safe and private</li>\n <li>Give you ways to manage and review your marketing choices at any time</li>\n <li>Not sell your data to anyone else</li>\n</ul>\n<p><strong>Data Controller</strong></p>\n<p>Cover Today is a trading name of Neilson Financial Services Limited.</p>\n<p>The data controller is Neilson Financial Services Limited who is authorised and regulated by the Financial Conduct Authority and entered on the Financial Services register&nbsp;under reference 594926. Neilson Financial Services Limited is registered in England and Wales under no. 07986483. Our registered address is 2 Windsor Dials, Arthur Road,&nbsp;Windsor, SL4 1RS.</p>\n<p>All products are arranged and sold by Cover Today and underwritten and administered by&nbsp;Scottish Friendly Assurance Society Limited (Scottish Friendly)&nbsp;who is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority and entered on the Financial Services Register under reference&nbsp;110002.&nbsp;Registered Office: Scottish Friendly Assurance Society Limited, Galbraith House, 16 Blythswood Square, Glasgow G2 4HJ. Cover Today assists in the administration.</p>\n<p>Where data is provided to our partners in relation to a service you have requested, our partners may also act as data controllers. If you would like more information about how any of our partners process data, you should read the privacy policy for the relevant partner which will be available on the partner’s website. More information about this is set out under “Who we share your personal information with”.</p>\n<p><strong>Data Protection Law</strong></p>\n<p>We are conscious of our responsibilities as a \"data controller\" under the UK General Data Protection Regulation (UK GDPR) and we shall endeavour to ensure that the personal information we obtain and use will always be held, used, transferred, and otherwise processed in accordance with that regulation and all other applicable data protection laws and regulations. Neilson Financial Services is registered with the Information Commissioner under registration number&nbsp;ZA125017. If you would like more information about our data protection policy, please contact us using the details shown on our website.</p>\n<p><strong>How the Law Protects you</strong></p>\n<p>The law allows us to use personal information only if we have a clear reason to do so. This includes how we share data outside of Neilson Financial Services Limited. To meet this requirement, we will only process personal data in the following circumstances:</p>\n<ul>\n <li>To fulfil and administer a contract we have with you;</li>\n <li>When it is in our legitimate interest;</li>\n <li>When we have a legal duty to;</li>\n <li>When you consent to it;</li>\n <li>When it is necessary for reasons of substantial public interest.</li>\n</ul>\n<p>There are circumstances where an alternative legal basis allows us to process personal data legitimately. Where we rely on an alternative legal basis for processing personal data, we will tell you what it is.</p>\n<p><strong>How we use information about you</strong></p>\n<p>We collect personal information from you when you contact us over the telephone or by email, when you complete application forms and when you access our website. We also collect personal information about you from third parties (more details can be found under the heading “Where we collect your personal information from”). We have provided examples below of the ways we may use your personal information and why.</p>\n<table><tbody>\n <tr><td><strong>When/Where we collect and process your personal information</strong></td><td><strong>Legal Basis we can rely on to process personal information</strong></td><td><strong>Rationale</strong></td></tr>\n <tr><td>When you call us or request to be called back</td><td><p>i) Legitimate Interest</p>\n<p>ii) Contract</p>\n</td><td><p>i) Contact initiated by you</p>\n<p>ii) Applies when you request a quote with a view to entering into a contract with us or to make changes to your existing policy</p>\n</td></tr>\n <tr><td>When we or a third-party agency acting on our behalf call you to promote and sell our products</td><td><p>i)Consent</p>\n<p>ii) Legitimate Interest</p>\n</td><td><p>i)We have evidence of your clear and unambiguous consent to be contacted</p>\n<p>ii) When we can demonstrate an existing relationship with you and you have not objected to receiving our calls in the past directly or by registering with the Telephone Preference Service</p>\n</td></tr>\n <tr><td>When we write to you to tell you about additional products and services.</td><td><p>i) Consent</p>\n<p>ii) Legitimate Interest</p>\n</td><td><p>i)You have given your agreement to marketing</p>\n<p>ii) To provide marketing that we think will be of interest to you</p>\n</td></tr>\n <tr><td>To assess your eligibility for cover</td><td><p>i) Contract</p>\n<p>ii) Substantial Public Interest</p>\n</td><td><p>i)We need to obtain personal information to determine whether or not we are able to set up a policy for you</p>\n<p>ii)This may involve collecting information from you about your Health and Lifestyle. Without this, we will not be able to proceed with an application for cover</p>\n</td></tr>\n <tr><td>To contact you for the purposes of notifying you of any important information regarding your Policy.</td><td>Contract</td><td><p>i) To keep our records accurate and up to date</p>\n<p>ii) To update you regarding any changes being made to the Policy</p>\n</td></tr>\n <tr><td>To deal with claims, complaints and general enquiries</td><td><p>i)Contract</p>\n<p>ii)Legal Obligation</p>\n</td><td><p>i) To administer claims and answer any questions you have when you contact us</p>\n<p>ii) To respond to complaints in line with regulatory requirements</p>\n</td></tr>\n <tr><td><p>Transfer data to Third Parties</p>\n<p>&nbsp;</p>\n</td><td><p>Contract</p>\n<p>&nbsp;</p>\n</td><td><p>i) To enable our insurer partner to undertake underwriting activities and to administer your policy.</p>\n<p>ii) To enable providers of additional products, services or promotional offers you’ve asked for to provide these products, services or offers to you.</p>\n</td></tr>\n <tr><td>When you agree to take part in a questionnaire or survey</td><td><p>i) Consent</p>\n<p>ii) Explicit Consent</p>\n</td><td><p>i) from time to time, we may ask customers or former customers to participate in a questionnaire or survey. We will only do so for legitimate business purposes, with your consent.</p>\n<p>ii) The survey may ask you to provide us with sensitive data, such as information about your health. Where this is the case, we will gain your separate, clear and unambiguous consent.</p>\n</td></tr>\n <tr><td><p>To offer you additional products and promotional offers on our website</p>\n<p><br></p>\n</td><td>Legitimate Interest</td><td>When you request a quote with a view to entering into a contract with us, we may, from time to time, offer you additional products and/or promotional offers we believe you will have a genuine and legitimate interest in, during the course of your online application.</td></tr>\n <tr><td><p>Data Analysis - Profiling: To develop and manage our brands, products and services by understanding our customers behaviours and preferences</p>\n<p>&nbsp;</p>\n</td><td>Legitimate interests</td><td><p>i)Defining target markets to which products are suited</p>\n<p>ii)Using our data to identify new audiences who are likely to want our products</p>\n<p>iii)Charging appropriately for products</p>\n<p>iv)Meeting genuine needs of customers through the products we provide</p>\n</td></tr>\n</tbody></table>\n<p>&nbsp;</p>\n<p><strong>Where we collect personal information from:</strong></p>\n<p>Data you provide:</p>\n<ul>\n <li>when you apply for products and services</li>\n <li>when you talk to us on the phone</li>\n <li>when you use our websites</li>\n <li>in letters and emails</li>\n <li>claims and other supporting documents</li>\n <li>When you participate in surveys and questionnaires</li>\n <li>social media</li>\n</ul>\n<p><strong>We may also receive data from:</strong></p>\n<ul>\n <li>third parties we work with</li>\n <li>companies that introduce you to us</li>\n <li>comparison websites</li>\n <li>general practitioners or other medical professionals</li>\n</ul>\n<p><strong>The categories of personal data that we may obtain from third parties are:</strong></p>\n<ul>\n <li>name</li>\n <li>gender</li>\n <li>contact details (email address and telephone number)</li>\n <li>birth date</li>\n <li>address and postcode</li>\n <li>Health and lifestyle information</li>\n</ul>\n<p>When you provide us with personal data about others, you must (unless we agree otherwise): (a) inform the individual about the content of this Privacy Policy and any other applicable privacy notices provided to you; and (b) obtain their permission (where possible) to share their Personal Information with us in accordance with this Privacy Policy and other applicable privacy notices.</p>\n<p><strong>Data we collect when you use our services</strong></p>\n<ul>\n <li>Personal information that can help us identify you</li>\n <li>Personal information that can help us contact you</li>\n <li>Personal information to assess your application for cover. This may include information about your health, categorised as “special category data”. We will only collect this data if the law allows us to do so</li>\n <li>Payment and transaction data</li>\n <li>Any profile you create or information you provide when you connect to our internet, mobile and telephone services. (we do this using cookies, further details can be found under the heading “Cookie Policy”)</li>\n</ul>\n<p><strong>Who we share your personal information with</strong></p>\n<p>We may use and share your personal information with service suppliers and financial institutions who we partner with. This includes the insurer and reinsurer when you apply for insurance through us. Scottish Friendly becomes a data controller when a policy has been issued to you and will process your personal information for their legitimate business purposes, which include:</p>\n<ul>\n <li>making decisions about whether to provide insurance and assistance services (such as claim assessment, claim processing and claim settlement);</li>\n <li>administering the policy, assessing and paying claims, and general customer service activities (including complaint resolution and claims disputes);</li>\n <li>detecting, investigating and preventing crime, including fraud and money laundering;</li>\n <li>carrying out market research and analysis;</li>\n <li>providing information about your policy in connection with any reinsurance; and</li>\n <li>complying with applicable laws and regulatory obligations (including laws and regulations outside of country of residence).</li>\n</ul>\n<p>Whenever Scottish Friendly uses your information for these purposes personal data rights are considered carefully and you have a right to opt-out of some of this processing. For more information on how Scottish Friendly uses your information, or how to opt-out, please see Scottish Friendly’s Privacy Policy at (<a href=\"https://www.scottishfriendly.co.uk/privacy-policy\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.scottishfriendly.co.uk/privacy-policy</a>).</p>\n<p>In addition, we may share your personal data with third parties we partner with, to provide you with additional products, services or promotional offers you have applied for.</p>\n<p>We may also share your personal information with legal and regulatory bodies such as the Financial Conduct Authority, the Financial Ombudsman Service and the Information Commissioner’s Office, to fulfil a legal or regulatory obligation, assist with an investigation, or demonstrate compliance.</p>\n<p>If we sell our company or part of it, we will share your information with the purchaser, who may then provide you with information on their products and services.</p>\n<p>We may transfer and process any personal information you provide to us to countries outside the European Economic Area. Again, we will ensure that all adequate safeguards are in place in connection with such transfer and that all necessary consent has been obtained.</p>\n<p><strong>How we use your information to make automated decisions</strong></p>\n<p>To assess your eligibility for cover we may use systems to make automated decisions based on personal information we collect from you. This involves us asking you to answer Health and Lifestyle questions when applying for cover under our Life Insurance Policy. The decision to provide cover is based on the answers you provide. These decisions do not involve human input, and the software and systems apply predefined logic programming and criteria to make a decision and assess how we deal with you in connection with the provision of services.&nbsp;We will hold this data safe and secure at all times.</p>\n<p>You have the right not to be subject to a decision which is based solely on automated processing, to express your point of view and contest the automated decision. You do not have to take part in this underwriting process, but if you don't Scottish Friendly won't be able to provide you with an insurance policy. If you do not wish to be subject to Scottish Friendly’s automated decision-making process, we will be unable to continue with this application.</p>\n<p><strong>If you choose not to give personal information</strong></p>\n<p>We may need to collect personal information by law, or under the terms of a contract we have with you.</p>\n<p>If you choose not to give us this personal information, it may delay or prevent us from meeting our obligations. It may also mean that we cannot perform services needed to administer your policy. It could also mean that we cancel a product you have with us.</p>\n<p>Any data collection that is optional will be made clear at the point of collection.</p>\n<p><strong>Marketing</strong></p>\n<p>We will only use your personal information to send you marketing messages to tell you about relevant products and services or offers that may be of interest to you if we have a valid reason to do so under data protection legislation. The two main reasons we rely on are where we have your consent, or if we have a legitimate interest to do so.</p>\n<p>When we rely on legitimate interests, we will issue you with marketing that we think will be of interest to you. We will only do this when we believe that our legitimate interests do not override your privacy rights.</p>\n<p>You can ask us to stop sending you marketing messages and update your choices by&nbsp;contacting us at any time.</p>\n<p>Whatever you choose, you will still receive important information such as changes to your existing products.</p>\n<p><strong>How long we keep your personal information</strong></p>\n<p>We maintain a data retention policy which governs how long we will keep your personal data for. We retain personal data about our customers and prospective customers. We will only keep your information for as long as reasonably required to demonstrate we have met our obligations to you and the rules that apply to us.</p>\n<p>We will keep your personal information for as long as you are a customer. After you stop being a customer, we will keep your data for up to 7 years for the following reasons:</p>\n<ul>\n <li>to respond to any questions or complaints</li>\n <li>to show that we treated you fairly</li>\n <li>to maintain records according to rules that apply to us</li>\n</ul>\n<p>We may keep your data for longer than 7 years if we cannot delete it for legal, regulatory or technical reasons. If we do, we will make sure that your privacy is protected.</p>\n<p><strong>Your Rights</strong></p>\n<p>Individuals have a number of rights in connection with their Personal Information. These rights only apply in certain circumstances and are subject to certain exemptions. These rights are noted below.&nbsp;</p>\n<p>All enquiries in respect of these rights will be handled by Cover Today, however, where necessary, we will liaise with other parties with whom we have shared your personal information (\"Who we share your personal information with\" above) when dealing with your request.</p>\n<p><strong>How to get a copy of your personal information</strong></p>\n<p>You can access the personal information we hold on you by contacting our Data Protection Officer. You can email, write or call us using the following details:</p>\n<p>Data Protection Officer at Cover Today, PO Box 6063, Windsor, SL4 9GL</p>\n<p>Email&nbsp;<a href=\"mailto:service@covertoday.co.uk\">service@covertoday.co.uk</a>&nbsp;or call us on 0800 470 4367.</p>\n<p><strong>Letting us know if your personal information is incorrect</strong></p>\n<p>You have the right to question any information we have about you that you think is wrong or incomplete. We will take reasonable steps to check its accuracy and correct it.</p>\n<p><strong>If you want us to stop using your personal information</strong></p>\n<p>You have the right to object to our use of your personal information, or to ask us to delete, remove or stop using it if there is no need for us to keep it. This is known as the “right to object”, “right to erasure” or the “right to be forgotten”.</p>\n<p>However, there may be occasions when we will not be able to delete personal information if a legal or regulatory requirement prevents us from doing so.</p>\n<p><strong>Restricting the use of your personal information</strong></p>\n<p>You can ask us to restrict the use of your personal information if:</p>\n<ul>\n <li>it is not accurate</li>\n <li>it has been used unlawfully, however, you do not want it to be deleted</li>\n <li>it is not relevant anymore, but you request it is kept for use in legal claims</li>\n <li>you have already asked us to stop using your data, but you are waiting for us to tell you if we are allowed to keep on using it.</li>\n</ul>\n<p><strong>Data portability</strong></p>\n<p>You can ask us to provide you with personal information you have given us, in a format that can be read by a computer. You can also ask that we share your data in this format, to someone else.</p>\n<p><strong>Opting out of advertising</strong></p>\n<p>You can opt out of advertising from Cover Today and other brands by making changes on Facebook and Google.</p>\n<p>Visit these links to find out how:</p>\n<p>Google: <a href=\"https://support.google.com/ads/answer/2662922?hl=en-GB\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\">https://support.google.com/ads/answer/2662922?hl=en-GB</a></p>\n<p>Facebook: <a href=\"https://www.facebook.com/help/146952742043748\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.facebook.com/help/146952742043748</a></p>\n<p><strong>How to withdraw your consent</strong></p>\n<p>If we have relied upon your consent to process your personal data, you can withdraw your consent at any time. Please contact us if you wish to do so.</p>\n<p>If you withdraw your consent, we may not be able to provide certain products or services to you. If this is the case, we will let you know.</p>\n<p><strong>How to Complain</strong></p>\n<p>Please contact our Data Protection Officer if you are unhappy with how we have used your personal information. To contact us about any of your rights set out in this Privacy Policy please write, email or call our Data Protection Officer at Cover Today, PO Box 6063, Windsor, SL4 9GL, email <a data-email-address=\"service@covertoday.co.uk\" href=\"mailto:service@covertoday.co.uk\">service@covertoday.co.uk</a>&nbsp;or call us on 0800 470 4367. Please provide your full name, email address, date of birth and quote number or policy number when contacting us.</p>\n<p>You also have the right to complain to the Information Commissioner’s Office.</p>\n<p>The ICO’s address:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Information Commissioner’s Office<br>\nWycliffe House<br>\nWater Lane<br>\nWilmslow<br>\nCheshire<br>\nSK9 5AF</p>\n<p>Helpline number: 0303 123 1113</p>\n<p>ICO website: <a href=\"https://www.ico.org.uk\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.ico.org.uk</a></p>\n<p><br></p>\n<h2>Cookie Policy</h2>\n<p>Cover Today are committed to protecting your privacy and we promise to treat it securely, fairly and lawfully.</p>\n<p>When we collect any personal information through our website and technology platforms, we will be transparent about what we collect, why we collect it and how we intend to use the data.</p>\n<p>Protecting our customers is at the heart of everything we do at Cover Today and protecting your information is no exception. We use cookies on our website(s) and other similar technologies to collect anonymous data so that we can improve and enhance your experience when you use our services. These cookies allow us to:</p>\n<ul>\n <li>Make our website work as effectively and efficiently as possible.</li>\n <li>Enhance your browsing experience</li>\n <li>Arrange content to match your preferred interests more quickly</li>\n <li>Collect statistical information to provide us with information on how our customers use our website and our products.</li>\n</ul>\n<p>We will collect information about how you use our website to:</p>\n<ul>\n <li>Remember how far you are in the online application form you are completing</li>\n <li>Provide advertising that is more relevant to you when you are visiting our, or other, websites promoting our products for example via retargeting cookies</li>\n <li>Track the effectiveness of our online and offline marketing campaigns.</li>\n</ul>\n<p><strong>How to manage and switch off cookies</strong></p>\n<p>Your web browser provides settings that allow you to manage or switch off cookies. If you do switch off cookies, remember that you may not be able to use all the services on our website. You can find out more about managing and switching off cookies at the independent website <a href=\"https://www.allaboutcookies.org/\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\">allaboutcookies.org</a>.&nbsp;</p>\n<p>You can update your cookie preferences using this link [[OPEN_ONETRUST]].</p>\n<p><strong>What are Cookies</strong></p>\n<p>“Cookies” are small pieces of text files which are sent to your browser and stay on your computer or mobile device when you visit our website. Cookies do not damage your device they are used to ‘remember’ you when you visit our website again. Cookies alone cannot be used to identify you.</p>\n<p>A cookie will transport information about how you use our website to us. The cookie does not keep any of the data it collects.</p>\n<p>Cookies are often referred to as&nbsp;<strong>session</strong>&nbsp;or&nbsp;<strong>persistent</strong>&nbsp;cookies, depending on how long they are used:</p>\n<ul>\n <li><strong>Session</strong> cookies only last for your online session and disappear from your computer or device when you close your browser.</li>\n <li><strong>Persistent</strong> cookies stay on your computer or device after the browser has been closed and last for the period specified in the cookie. These persistent cookies are activated each time you visit the site where the cookie was generated.</li>\n</ul>\n<p>In addition to how long a cookie is kept on your computer, a cookie is then divided into four types:</p>\n<p><strong>Strictly necessary cookies</strong><br>\n<strong> </strong>These cookies are essential to enable services you have specifically requested such as requesting a quote and/or purchasing a product.</p>\n<table><tbody>\n <tr><td><strong>Strictly necessary cookies</strong></td><td><strong>Purpose</strong></td><td><strong>Period</strong></td></tr>\n <tr><td>ASP.NET_SessionId</td><td>Used to remember information required for navigation and other site interactions such as your details throughout the purchasing process.&nbsp;<a href=\"https://privacy.microsoft.com/en-gb/privacystatement\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\">Overview of Microsoft privacy</a></td><td>Session</td></tr>\n <tr><td>ARRAffinity</td><td>Used to request routing and load balancing by our hosting platform, Microsoft Azure.</td><td>Session</td></tr>\n <tr><td>OptanonConsent&nbsp;</td><td>This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the user’s browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor.</td><td>Persistent – 1 Year&nbsp;</td></tr>\n <tr><td>OptanonAlertBoxClosed</td><td>This cookie is set by websites using certain versions of the cookie law compliance solution from OneTrust.&nbsp; It is set after visitors have seen a cookie information notice and, in some cases, only when they actively close the notice down.&nbsp; It enables the website not to show the message more than once to a user.&nbsp; The cookie has a one-year lifespan and contains no personal information.&nbsp;</td><td>Persistent – 1 Year</td></tr>\n <tr><td>visitorId</td><td>Used to connect visitor actions together to support site navigation and user interaction</td><td>Persistent – 6 months</td></tr>\n <tr><td>TransactionId</td><td>Used to track user actions in a session to support site navigation and user interaction.</td><td>SESSION</td></tr>\n <tr><td>cookietest</td><td>Common cookie name could have a number of different origins. Where this is first party and a session cookie, its most likely to do with checking to see if the browser is set to block or allow cookies.</td><td>SESSION</td></tr>\n</tbody></table>\n<p>&nbsp;</p>\n<p><strong>Performance cookies</strong></p>\n<p>These cookies collect information about how you use our website, for instance which pages you visit most often, and if you experience error messages. These cookies don't collect information that identifies you. All information is aggregated and therefore anonymous. They are only used to improve your experience whilst visiting our website.&nbsp; &nbsp;</p>\n<table><tbody>\n <tr><td><strong>Performance cookies</strong></td><td><strong>Purpose</strong></td><td><strong>Period</strong></td></tr>\n <tr><td><p>_gid</p>\n<p><br></p>\n<p>_gat_UA-nnnnnnn-nn</p>\n<p><br></p>\n<p>_ga_XCCXYDK606</p>\n<p><br></p>\n<p>_ga</p>\n</td><td>Google Analytics is Google's free web analytics tool that helps website owners understand how their visitors engage with their website. Google Analytics collects information anonymously, and reports website trends without identifying individual visitors. Universal Analytics is a set of technological innovations that improve the way data is collected and processed in Google Analytics.&nbsp;Universal Analytics uses cookies to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Different cookies&nbsp;are used for each website, and visitors are not tracked across multiple sites.</td><td><p>30 days</p>\n<p><br></p>\n<p>2 years</p>\n<p><br></p>\n<p>2 years</p>\n<p><br></p>\n<p>2 years</p>\n</td></tr>\n <tr><td><p>_vwo_uuid_v2,</p>\n<p>_vwo_uuid</p>\n<p>_vwo_sn,</p>\n<p>_vwo_referrer,</p>\n<p>_vis_opt_s,</p>\n<p>_vis_opt_test_cookie</p>\n<p>_vwo_ds</p>\n<p>vis_opt_exp_n_combi</p>\n</td><td>These cookies are associated with the product Visual Website Optimiser, by Wingify. The tool helps site owners measure the performance of different versions of web pages.</td><td>Persistent – 1 Year</td></tr>\n <tr><td>cd_user_id</td><td>A site visit analytics tool to help understand visitor behaviour to support improving the website experience</td><td>Persistent – 1 Year</td></tr>\n</tbody></table>\n<p>&nbsp;</p>\n<p>&nbsp;<strong>Targeting/Advertising cookies</strong></p>\n<p>These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see the same advert and help us measure the effectiveness of advertising campaigns.</p>\n<table><tbody>\n <tr><td><strong>Targeting / Advertising cookies</strong></td><td><strong>Purpose</strong></td><td><strong>Period</strong></td></tr>\n <tr><td><p>Bing Cookies</p>\n<p>SRM_B</p>\n<p><br></p>\n<p><br></p>\n<p>_uetsid</p>\n<p><br></p>\n<p><br></p>\n<p>_uetvid</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p>MUID</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p>ANONCHK</p>\n</td><td><p><br></p>\n<p>This is a Microsoft MSN 1st party cookie that ensures the proper functioning of this website.</p>\n<p><br></p>\n<p>This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.</p>\n<p><br></p>\n<p>This is a cookie utilised by Microsoft Bing Ads and is a tracking cookie. It allows us to engage with a user that has previously visited our website.</p>\n<p><br></p>\n<p>This cookie is widely used my Microsoft as a unique user identifier.&nbsp; It can be set by embedded microsoft scripts.&nbsp; Widely believed to sync across many different Microsoft domains, allowing user tracking.</p>\n<p><br></p>\n<p>This cookie is used by Microsoft for storing the session ID for a user. This cookie ensures that clicks from advertisement on the Bing search engine are verified and it is used for reporting purposes and for personalization.</p>\n</td><td><p><br></p>\n<p>389 days</p>\n<p><br></p>\n<p><br></p>\n<p>1 day</p>\n<p><br></p>\n<p><br></p>\n<p>389 days</p>\n<p><br></p>\n<p><br></p>\n<p>1 year</p>\n<p><br></p>\n<p><br></p>\n<p>1 day</p>\n</td></tr>\n <tr><td><p>_gcl_au</p>\n<p><br></p>\n</td><td>Used by Google AdSense for experimenting with advertisement efficiency across websites using their services&nbsp;</td><td>Persistent – 90 days&nbsp;</td></tr>\n</tbody></table>\n<p><br></p>\n<p><strong>Social Media Cookies</strong>&nbsp;</p>\n<p>These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.&nbsp;</p>\n<table><tbody>\n <tr><td><strong>Social Media Cookies&nbsp;</strong></td><td><strong>Purpose&nbsp;</strong></td><td><strong>Period&nbsp;&nbsp;</strong></td></tr>\n <tr><td>_fbp&nbsp;</td><td>Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers&nbsp;</td><td>Persistent – 90 days&nbsp;</td></tr>\n</tbody></table>\n<p>&nbsp;</p>\n<p>Apart from cookies we also use local storage and tags to help us enhance your browsing experience.</p>\n<ul>\n <li>Local storage is like a cookie, except the information collected by local storage is not sent to an internet server unless there is a specific reason for us to store the data collected (i.e. for analytics purposes).</li>\n</ul>\n<p>Like cookies, local storage is stored locally on your machine, within your browser like cookies, history, saved pages, etc. Local storage contains ‘name/value’ pairs (i.e. postcode / SL4 9GL, surname / ‘Smith’) and a web page can only access data stored locally within its domain.</p>\n<ul>\n <li>Tags are a small piece of code which is placed on our website and collects data. This code would only collect data on our website. A tag will not be stored on your browser; however, it may use a cookie which could be placed on your browser.</li>\n</ul>\n<p><br></p>\n<p>Last updated: September 2022</p>\n<p><br></p>"
+                },
+                "cta_button": {
+                  "name": "Cta Button",
+                  "type": "modular_content",
+                  "value": [],
+                  "linkedItems": []
+                },
+                "no_follow_link": {
+                  "name": "No follow link",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "tick_list": {
+                  "name": "Tick List",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "layout_dark_content": {
+                  "name": "Layout Dark Content",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "layout_grey_content": {
+                  "name": "Layout Grey Content",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "layout_default_content": {
+                  "name": "Layout Default Content",
+                  "type": "multiple_choice",
+                  "value": []
+                }
+              },
+              "system": {
+                "codename": "policy_modal",
+                "collection": "default",
+                "id": "7ccc7455-65a5-405b-a18e-ae0d18dc786e",
+                "language": "default",
+                "lastModified": "2023-06-14T13:55:04.8012706Z",
+                "name": "Policy Modal",
+                "sitemapLocations": [],
+                "type": "text_module",
+                "workflowStep": "published"
+              }
+            }
+          ]
+        },
+        "terms_modal": {
+          "name": "Terms Modal",
+          "type": "modular_content",
+          "value": [
+            "terms_modal"
+          ],
+          "linkedItems": [
+            {
+              "elements": {
+                "title": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Title",
+                  "type": "rich_text",
+                  "value": "<h3>Terms of Use</h3>"
+                },
+                "content": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Content",
+                  "type": "rich_text",
+                  "value": "<p><strong>PLEASE READ THESE TERMS OF USE AND OUR PRIVACY POLICY CAREFULLY. IF YOU DO NOT AGREE TO THESE TERMS OF USE OR TO OUR PRIVACY POLICY YOU MUST NOT ACCESS OR USE THE WEBSITE. BY CONTINUING TO ACCESS OR USE THE WEBSITE, YOU WILL BE TAKEN TO HAVE READ AND ACCEPTED THESE TERMS OF USE AND OUR PRIVACY POLICY.&nbsp;</strong></p>\n<ul>\n <li>The services and products that we provide on the Website are intended for residents of the UK only, and information contained on the Website does not amount to an invitation to customers outside of the UK to offer to buy any services or products.&nbsp;</li>\n <li>Whilst we endeavour to ensure that the information on the Website is correct, we do not warrant the accuracy and completeness of the content on the Website. We are also not responsible for the content, accuracy, security or reliability of any other websites or pages linked to the Website. Following links to any other websites or pages shall be at your own risk and we shall not be responsible or liable for any damages resulting from or in connection with such links.&nbsp;</li>\n <li>We will try to ensure that the Website is available for access at all times. However, it may be necessary to close or suspend the provision of the Website from time to time for repair, maintenance or development. Furthermore, access to the Website may be interrupted by circumstances beyond our control. We therefore do not warrant that the Website, or the services or products mentioned on the Website, will be available at all times.&nbsp;</li>\n <li>The Website and the material contained on it comprise intellectual property which belongs to us and our third party licensors. You may only imprint, copy, download or temporarily store extracts from the Website for your personal information or when you use our products and services. Any other use is prohibited without our prior written permission.&nbsp;</li>\n <li>When you access or use the Website, you must not upload or send any viruses or other destructive or disruptive code, use it in an unauthorised or criminal manner, or use any content on the Website for any commercial purposes.&nbsp;</li>\n <li>We reserve the right, at our sole discretion, to modify, add or remove sections of these Terms of Use at any time and any changes will be notified to you by an announcement on the Website. Your continued use of the Website, following changes to these Terms of Use, will mean you accept these changes.&nbsp;</li>\n <li>Should you have any complaints in relation to the Website, or the services or products that we provide, then please contact us by clicking on the \"Contact Us\" section of this Website. If you are not satisfied with the way in which we handle your complaint or if you have not had a final response within eight weeks since the date of your complaint, you may take your complaint to the Financial Ombudsman Service, Exchange Tower, London E14 9SR or telephone 0800 023 4567.&nbsp;</li>\n <li>These Terms of Use are governed by English law. Any disputes arising in connection with these Terms of Use shall be subject to the non-exclusive jurisdiction of the English courts.&nbsp;</li>\n <li>If any provision of these Terms of Use is found to be unlawful, void or unenforceable, then such provision is deemed severable and will not affect the validity or enforceability of any of the remaining provisions.&nbsp;</li>\n</ul>"
+                },
+                "cta_button": {
+                  "name": "Cta Button",
+                  "type": "modular_content",
+                  "value": [],
+                  "linkedItems": []
+                },
+                "no_follow_link": {
+                  "name": "No follow link",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "tick_list": {
+                  "name": "Tick List",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "layout_dark_content": {
+                  "name": "Layout Dark Content",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "layout_grey_content": {
+                  "name": "Layout Grey Content",
+                  "type": "multiple_choice",
+                  "value": []
+                },
+                "layout_default_content": {
+                  "name": "Layout Default Content",
+                  "type": "multiple_choice",
+                  "value": []
+                }
+              },
+              "system": {
+                "codename": "terms_modal",
+                "collection": "default",
+                "id": "6c8e00d2-b059-437e-a6f3-69945e59e9c5",
+                "language": "default",
+                "lastModified": "2023-06-14T13:56:01.076197Z",
+                "name": "Terms Modal",
+                "sitemapLocations": [],
+                "type": "text_module",
+                "workflowStep": "published"
+              }
+            }
+          ]
+        },
+        "thanks_modal": {
+          "name": "Thanks Modal",
+          "type": "modular_content",
+          "value": [
+            "thank_you_callback"
+          ],
+          "linkedItems": [
+            {
+              "elements": {
+                "title": {
+                  "name": "Title",
+                  "type": "text",
+                  "value": ""
+                },
+                "content": {
+                  "images": [],
+                  "linkedItemCodenames": [],
+                  "linkedItems": [],
+                  "links": [],
+                  "name": "Content",
+                  "type": "rich_text",
+                  "value": "<h4>Thank You</h4>\n<p>Thank you for requesting a&nbsp;call&nbsp;back.&nbsp;We’ll&nbsp;be in contact with&nbsp;you as soon as possible. In the&nbsp;meantime, if you have any questions why not&nbsp;check out some&nbsp;of <a href=\"/life-insurance-guides/\">our guides</a>?&nbsp;</p>"
+                }
+              },
+              "system": {
+                "codename": "thank_you_callback",
+                "collection": "default",
+                "id": "944c172f-94fc-4e1b-b187-0f02797695b2",
+                "language": "default",
+                "lastModified": "2021-08-30T09:14:04.1850772Z",
+                "name": "Thank You Callback",
+                "sitemapLocations": [],
+                "type": "thanks_modal",
+                "workflowStep": "published"
+              }
+            }
+          ]
+        },
+        "thank_you_page_url": {
+          "name": "Thank You Page URL",
+          "type": "modular_content",
+          "value": [],
+          "linkedItems": []
+        },
+        "enable_page_exit_warning": {
+          "name": "Enable Page Exit Warning",
+          "type": "multiple_choice",
+          "value": []
+        },
+        "call_me_later_offered": {
+          "name": "Call Me Later Offered",
+          "type": "multiple_choice",
+          "value": [
+            {
+              "name": "enable",
+              "codename": "enable"
+            }
+          ]
+        },
+        "terms_replacement_text": {
+          "name": "Terms Replacement Text",
+          "type": "text",
+          "value": ""
+        },
+        "policy_replacement_text": {
+          "name": "Policy Replacement Text",
+          "type": "text",
+          "value": ""
+        },
+        "alt_style": {
+          "name": "Alt Style",
+          "type": "multiple_choice",
+          "value": [
+            {
+              "name": "True",
+              "codename": "true"
+            }
+          ]
+        },
+        "incentive": {
+          "name": "Incentive",
+          "type": "modular_content",
+          "value": [],
+          "linkedItems": []
+        },
+        "quote_callout_title": {
+          "images": [],
+          "linkedItemCodenames": [],
+          "linkedItems": [],
+          "links": [],
+          "name": "Quote Callout Title",
+          "type": "rich_text",
+          "value": "<p><br></p>"
+        },
+        "quote_callout_icon": {
+          "name": "Quote Callout Icon",
+          "type": "asset",
+          "value": []
+        }
+      },
+      "system": {
+        "codename": "callback_form_1544bb1",
+        "collection": "default",
+        "id": "1544bb13-7791-4720-a49d-3834526c799b",
+        "language": "default",
+        "lastModified": "2023-06-19T09:06:32.9770787Z",
+        "name": "Callback Form",
+        "sitemapLocations": [],
+        "type": "form_module",
+        "workflowStep": "published"
+      }
+    }
+  ],
+  "flipContent": null,
+  "trustpilot": null
+}

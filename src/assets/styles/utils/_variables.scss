@@ -1,0 +1,166 @@
+/* All Variables should be declared here which makes it easier to update if something changes globally */
+
+/*
+ If prefixed with x- should only be assigned to other variables, not used on their own.
+ If prefixed with c- this means the variable defines a colour
+ If prefixed with s- this means the variable defines a sizing measurement
+ If prefixed with f- this means the variable defines a font #2B4570
+ If prefixed with g- this means the variable defines something global
+*/
+
+// Global Responsive variables - see breakpoint manager mixin
+$g-phone-breakpoint-min-width: 375px; // 375px
+$g-phablet-breakpoint-min-width: 560px; // 560px
+$g-tablet-breakpoint-min-width: 768px; // 768px make sure this doesn't apply to ipad portrait
+$g-desktop-breakpoint-min-width: 1024px; // 1024px
+$g-desktop-large-breakpoint-min-width: 1280px; // 1280px allow for specific styles on very large screens
+
+// Base Typography
+$base-font-size: 1.8rem; // 18px - see base font-size reset in isobar-reset.scss
+$base-line-height: 3rem; // 30px - should match the gutter size below
+
+
+// Fonts
+$f-fallback: Helvetica, Arial, sans-serif;
+$f-global-font: 'Source Sans 3', $f-fallback;
+$f-heading-font: 'Ubuntu', $f-fallback;
+
+// Spacing variable - IMPORTANT use tailwind spacing classes where possible, these should only be used in cases where tailwind is not possible
+
+$spacing-0: 0;
+$spacing-1: 4px;
+$spacing-2: 8px;
+$spacing-3: 12px;
+$spacing-4: 16px;
+$spacing-5: 20px;
+$spacing-6: 24px;
+$spacing-7: 28px;
+$spacing-8: 32px;
+$spacing-9: 36px;
+$spacing-10: 40px;
+$spacing-11: 64px;
+$spacing-12: 80px;
+
+
+// Colour variables - split background colours and text colours
+// If prefixed with x- should only be assigned to other variables, not used on its own.
+// Use https://chir.ag/projects/name-that-color/ for naming colours
+
+// Greyscale Colors
+$x-quartz-1200: #222222;
+$x-quartz-900: #626262;
+$x-quartz-700: #999999;
+$x-quartz-500: #C4C4C4;
+$x-quartz-300: #E1E1E1;
+$x-quartz-200: #F6F6F6;
+$x-quartz-100: #F9F9F9;
+
+// Generic Colors
+$black: $x-quartz-1200;
+$white: #FFFFFF;
+
+// Primary Brand Colors
+$x-internatial-orange: #F95801;
+$x-charcoal: #121212;
+$x-mine-shaft: #3E3E3E;
+$x-sorbus: #FC7F09;
+
+
+// Secondary Brand Colors
+$x-jade: #00B67A;
+$x-calyspo: #2E758B;
+$x-persian-green: #009E9E;
+$x-lagoon: #048484;
+
+$x-valencia: #D94E46;
+$x-ebony: #101C27;
+$x-astronaut: #2B4570;
+$x-fuscous-gray: #525146;
+$x-regal: #024A6D;
+
+// Functional Colors
+$x-red: #E63329;
+$x-green: #56A741;
+$x-yellow: #FED662;
+
+// See below example, by using $c-primary wherever needed it means if you want to 
+// change that border colour to red for example, you don't have to change every
+// reference to x-grey in all files - just do a simple variable swap in one place.
+
+// Primary
+$c-core-logo: $x-internatial-orange;
+$c-cta: $x-jade;
+$c-core-font: $x-charcoal;
+$c-support: $x-sorbus;
+$c-support-2: $x-astronaut;
+
+// Secondary
+$c-incentive: $x-yellow;
+$c-incentive-secondary: $x-jade;
+$c-links: $x-calyspo;
+$c-cta-support: $x-persian-green; 
+$c-cta-support-2: $x-lagoon;
+$c-cta-label: $white;
+$c-cta-label-2: $x-ebony;
+$c-cta-hover: $x-regal;
+$c-overlay-block: rgba($white, 0.75); 
+$c-overlay-text: $x-fuscous-gray;
+$c-overlay-mobile-text: $x-fuscous-gray;
+$c-pagination-color: $x-ebony;
+$c-inner-banner: $x-quartz-100;
+$c-inner-banner-text: $x-internatial-orange;
+$c-banner-bg: $white;
+$c-cta-block: $x-quartz-100;
+$c-content-block: $x-quartz-100;
+$c-bullets: $x-internatial-orange;
+
+// Functional
+$c-success: $x-green;
+$c-error: $x-red;
+$c-alert: $x-yellow;
+
+// Greyscale
+$c-main-bg: $x-quartz-300;
+$c-bg-secondary: $x-quartz-300;
+$c-bg-light: $x-quartz-100;
+$c-border: $x-quartz-300;
+$c-border-card: $x-quartz-500;
+$c-card-bg: $x-quartz-100;
+$c-module-header-bg: $x-quartz-100;
+$c-input-border: $x-quartz-500;
+$c-black-copy: $x-quartz-1200;
+$c-light-copy: $x-quartz-900;
+$c-hero-banner-inner-bg: $x-quartz-100;
+$c-double-cta-bg: $x-quartz-1200;
+
+// MegaMenu
+$c-menu: $c-core-font;
+$c-megamenu-title: $x-quartz-700;
+$c-megamenu-border: $x-quartz-500;
+$c-megamenu-mobile-nav-bg: $x-quartz-100;
+
+// Footer
+$c-footer-bg: $x-quartz-1200;
+$c-footer-copyright: $x-quartz-700;
+$c-footer-border: $x-quartz-700;
+
+// Overlay Opacity
+$g-overlay-opacity: 0.8;
+
+// Global box shadow value
+$g-box-shadow: 0 2px 7px 1px rgba(0, 0, 0, .24);
+
+// Global transition value
+$g-transition-duration: .25s;
+$g-transition-fast-duration: .2s;
+$g-transition: all $g-transition-duration ease-in-out;
+$g-transition-fast: all $g-transition-fast-duration ease-in-out;
+
+// Font Weight
+$w-body: 500;
+$w-subheading: 500;
+$w-heading: 700;
+$w-cta: 500;
+$w-link: 500;
+$w-label: 500;
+$w-display: 700;

@@ -1,0 +1,101 @@
+/* Declare font face variations here - make sure to update the source url with the theme name, font name and upload the font files in the correct directory */
+
+/* Declare site wide typography styles here */
+
+body {
+  font-family: $f-global-font, $f-fallback;
+  font-size: $base-font-size; /* 18px */
+  line-height: $base-line-height; /* 30px */
+  font-weight: $w-body;
+  color: $c-core-font;
+}
+
+p {
+  font-size: $base-font-size; /* 18px */
+  line-height: $base-line-height; /* 30px */
+  margin: 0 0 $base-line-height 0;
+}
+
+h1 {
+  font-size: 3.6rem;
+  line-height: 4rem;
+  font-family: $f-heading-font;
+  color: $c-core-font;
+  font-weight: $w-heading;
+  margin: 0 0 16px;
+}
+
+h2 {
+  font-size: 3.2rem;
+  line-height: 4rem;
+  font-family: $f-heading-font;
+  color: $c-core-font;
+  font-weight: $w-heading;
+  margin: 0 0 16px;
+}
+
+h3 {
+  font-size: 2.8rem;
+  line-height: 3.8rem;
+  font-family: $f-heading-font;
+  color: $c-core-font;
+  font-weight: $w-heading;
+  margin: 0 0 16px;
+}
+
+h4 {
+  font-size: 2.4rem;
+  line-height: 3.2rem;
+  font-family: $f-heading-font;
+  color: $c-core-font;
+  font-weight: $w-heading;
+  margin: 0 0 16px;
+}
+
+pre {
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  font-size: 1rem;
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: $c-core-font;
+  text-decoration: none;
+
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+.h-display {
+  font-weight: $w-display;
+  font-size: 3.6rem;
+  line-height: 40px;
+
+  @include media-query('tablet') {
+    font-size: 4rem;
+    line-height: 52px;
+  }
+}
+
+.optanon-toggle-display {
+  text-decoration: underline;
+
+  &:hover,
+  &:active {
+    cursor: pointer;
+    text-decoration: none;
+  }
+}
