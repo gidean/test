@@ -44,9 +44,9 @@
           </div>
         </div>
         <div class="input-wrapper">
-          <ValidationProvider rules="required" v-slot="{ errors }"" slim>
-              <label class=" label" :for="phoneNumber">
-            {{ contentData.phoneLabel }}
+          <ValidationProvider rules="required" v-slot="{ errors }" slim>
+            <label class=" label" :for="phoneNumber">
+              {{ contentData.phoneLabel }}
             </label>
             <input @input="numericOnly('firstName', $event)" v-model="phoneNumber" type="number"
               :name="contentData.phoneLabel" :aria-label="contentData.phoneLabel">
