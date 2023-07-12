@@ -83,7 +83,6 @@ export default {
     }
   },
   methods: {
-    // Toggle accordion
     toggleAcordion(index) {
       this.openedIndex = this.openedIndex === index ? null : index;
     },

@@ -18,7 +18,7 @@
     <ValidationObserver v-slot="{ handleSubmit }" slim>
       <form class="form-container" @submit.prevent="handleSubmit(submitForm)">
         <div class="flex flex-col md:flex-row">
-          <div class="input-wrapper md:pr-4 pb-4 md:pb-0">
+          <div class="input-wrapper md:pr-6 pb-4 md:pb-0">
             <ValidationProvider rules="required" v-slot="{ errors }" slim>
               <label class="label" :for="firstName">
                 {{ contentData.firstName }}
@@ -123,7 +123,7 @@ export default {
 @import 'src/assets/styles/structure/_forms.scss';
 
 .quote-container {
-  background-color: #153758;
+  background-color: $x-astronaut;
   border-radius: 8px;
   color: $white;
   display: flex;
